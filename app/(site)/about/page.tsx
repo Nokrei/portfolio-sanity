@@ -81,3 +81,4 @@ export default async function About() {
     </main>
   );
 }
+export const revalidate = 1
